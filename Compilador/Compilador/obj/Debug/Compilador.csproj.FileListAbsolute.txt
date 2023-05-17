@@ -1,0 +1,3 @@
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.exe
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.pdb

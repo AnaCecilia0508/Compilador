@@ -1,0 +1,29 @@
+C:\Users\cbo23\source\repos\Compilador2\Compilador2\obj\Debug\Compilador2.csprojAssemblyReference.cache
+C:\Users\cbo23\source\repos\Compilador2\Compilador2\obj\Debug\Compilador2.Form1.resources
+C:\Users\cbo23\source\repos\Compilador2\Compilador2\obj\Debug\Compilador2.Properties.Resources.resources
+C:\Users\cbo23\source\repos\Compilador2\Compilador2\obj\Debug\Compilador2.csproj.GenerateResource.cache
+C:\Users\cbo23\source\repos\Compilador2\Compilador2\obj\Debug\Compilador2.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Celina\Compilador2\bin\Debug\Compilador2.exe.config
+C:\Users\52866\Desktop\Celina\Compilador2\bin\Debug\Compilador2.exe
+C:\Users\52866\Desktop\Celina\Compilador2\bin\Debug\Compilador2.pdb
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.Form1.resources
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.Properties.Resources.resources
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.exe
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.pdb
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.Inicio.resources
+C:\Users\52866\Desktop\Celina\Compilador2\obj\Debug\Compilador2.exportar.resources
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\bin\Debug\Compilador2.exe.config
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\bin\Debug\Compilador2.exe
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\bin\Debug\Compilador2.pdb
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.exportar.resources
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.Form1.resources
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.Inicio.resources
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.exe
+C:\Users\ferna\OneDrive\Escritorio\ana salazar\8vo Semestre\Sistemas de Programación\Compilador2-main\Compilador2\obj\Debug\Compilador2.pdb
